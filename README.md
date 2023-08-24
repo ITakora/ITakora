@@ -3,10 +3,7 @@
 I'm mobile developer from Indonesia
 
 
-## My Skills
 
-- FLutter
-- Android Native
 
 
 ## Github Stats
