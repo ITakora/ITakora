@@ -1,4 +1,11 @@
-### Hi there 👋, I'am mobile dev
+# Hi Everyone 👋
+
+I'm mobile developer from Indonesia
+
+## Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITakori)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **ITakora/ITakora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
