@@ -4,7 +4,7 @@ I'm mobile developer from Indonesia
 
 ## Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITakori)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITakora)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
