@@ -4,7 +4,9 @@ I'm mobile developer from Indonesia
 
 ## Github Stats
 
+  <picture>
   <img src="https://github-readme-stats.vercel.app/api?username=ITakora&show_icons=true&theme=dark" />
+  </picture>
 
 
 <!--
