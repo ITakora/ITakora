@@ -9,6 +9,11 @@ I'm mobile developer from Indonesia
 </a>  
 
 
+## My Skills
+
+- FLutter
+- Android Native
+
 
 <!--
 **ITakora/ITakora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
