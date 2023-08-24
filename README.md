@@ -2,6 +2,13 @@
 
 I'm mobile developer from Indonesia
 
+
+## My Skills
+
+- FLutter
+- Android Native
+
+
 ## Github Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -9,10 +16,7 @@ I'm mobile developer from Indonesia
 </a>  
 
 
-## My Skills
 
-- FLutter
-- Android Native
 
 
 <!--
