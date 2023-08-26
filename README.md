@@ -1,4 +1,4 @@
-# Hello, Everyone! 👋
+# Hello Everyone! 👋
 
 I'm mobile developer from Indonesia
 
