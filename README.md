@@ -7,10 +7,13 @@ I'm mobile developer / Backend developer from Indonesia
 
 
 ## Github Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ITakora&show_icons=true&theme=dark&line_height=27&include_all_commits=true" alt="My github stats" />
+<a href="https://github.com/ITakora/github-readme-stats">
+  <img height=200  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ITakora&show_icons=true&theme=dark&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>  
+
+<a href="https://github.com/ITakora/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ITakora&show_icons=true&theme=dark&line_height=27&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 
