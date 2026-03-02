@@ -7,12 +7,19 @@ I'm mobile developer / Backend developer
 
 
 ## Github Stats
+<!-- <p >
+  <a href="https://github.com/ITakora/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ITakora&show_icons=true&theme=dark&line_height=27&include_all_commits=true" alt="My github stats" />
+  </a>
+  <a href="https://github.com/ITakora/github-readme-stats">
+    <img height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ITakora&theme=dark&line_height=27&include_all_commits=true&layout=compact" alt="Top Languages" />
+  </a>
+</p> -->
 <a href="https://github.com/ITakora/github-readme-stats">
-  <img height=200  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ITakora&show_icons=true&theme=dark&line_height=27&include_all_commits=true" alt="My github stats" />
-</a>  
-
+  <img height=200 align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ITakora&show_icons=true&theme=dark&line_height=27&include_all_commits=true" alt="My github stats"/>
+</a>
 <a href="https://github.com/ITakora/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ITakora&show_icons=true&theme=dark&line_height=27&layout=compact&langs_count=10&card_width=350" />
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ITakora&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
