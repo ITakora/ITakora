@@ -1,6 +1,6 @@
 # Hello Everyone! 👋
 
-I'm mobile developer / Backend developer 
+
 
 
 
